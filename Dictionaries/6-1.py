@@ -7,4 +7,7 @@ myfriend = {
     'city': 'louisville',
     }
 
-print 
+print (myfriend['firstName'])
+print (myfriend['lastName'])
+print (myfriend['age'])
+print (myfriend['city'])
