@@ -1,0 +1,2 @@
+Having trouble understanding when and how to assign values to subclass
+attributes.

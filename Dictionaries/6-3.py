@@ -1,4 +1,4 @@
-#Programming glossary
+# Programming glossary
 
 glossary = {
     'variable':'A unique declared location that is used to store values.',

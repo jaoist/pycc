@@ -1,0 +1,11 @@
+Classes
+--
+Creating classes allows a grouping of functions and attribute contained in 
+a new object. Allows for multiple instances of the class that can exist in
+differing states with a shared library of methods. 
+
+Inheritance
+--
+Creating a class that takes another class as an argument is called creating a 
+child class, or subclass. In Python 2.7 the super() method requires the
+superclass and self as arguments. 
